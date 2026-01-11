@@ -63,11 +63,5 @@ When matrix **A** is an identity matrix, the output **C equals matrix B**.
 * │── matrix_veri.v # Main Verilog module
 * │── tb_matrix.v # Testbench
 
-## ✅ OUTPUT MATRIX 
-
-* │ 1   2   3   4 │
-* │ 5   6   7   8 │
-* │ 9  10  11  12 │
-* │13  14  15  16 │
 
 
