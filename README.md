@@ -64,23 +64,23 @@ When matrix **A** is an identity matrix, the output **C equals matrix B**.
 * │── tb_matrix.v # Testbench
 
 ## ✅ === Matrix Multiplication Accelerator Simulation ===
-# Matrix A:
--- [ 1  2  3  4  ]
--- [ 5  6  7  8  ]
--- [ 9  10 11 12 ]
--- [ 13 14 15 16 ]
+# Matrix A: 
+[ 1  2  3  4  ]
+[ 5  6  7  8  ]
+[ 9  10 11 12 ]
+[ 13 14 15 16 ]
 
 # Matrix B:
---[1  0  0  0]
---[0  1  0  0]
---[0  0  1  0]
---[0  0  0  1]
+[1  0  0  0]
+[0  1  0  0]
+[0  0  1  0]
+[0  0  0  1]
 
 # Result Matrix C = A × B:
---[1  2  3  4]
---[5  6  7  8]
---[9 10 11 12]
---[13 14 15 16]
+[1  2  3  4]
+[5  6  7  8]
+[9 10 11 12]
+[13 14 15 16]
 
 
 
